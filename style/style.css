@@ -376,7 +376,7 @@ body {
   margin-bottom: 20px;
 }
 
-#stay-productive #stay-productive-container #productive-content #content {
+#stay-productive #stay-productive-container #productive-content #productive-content-inside {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 0.9rem;
@@ -558,20 +558,20 @@ body {
           transform: translateY(calc(50% + 50px));
 }
 
-#email-submit #email-submit-container #content {
+#email-submit #email-submit-container #email-submit-content {
   width: 100%;
   text-align: center;
   color: white;
 }
 
-#email-submit #email-submit-container #content #title {
+#email-submit #email-submit-container #email-submit-content #title {
   font-family: 'raleway', sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
   margin-bottom: 20px;
 }
 
-#email-submit #email-submit-container #content #description {
+#email-submit #email-submit-container #email-submit-content #description {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 0.7rem;

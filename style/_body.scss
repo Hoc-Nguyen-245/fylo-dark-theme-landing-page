@@ -195,7 +195,7 @@
                 font-size: 2rem;
                 margin-bottom: 20px;
             }
-            #content {
+            #productive-content-inside {
                 @include body_regular;
                 font-size: 0.9rem;
                 line-height: 1.5;
@@ -338,7 +338,7 @@
         border-radius: 5px;
         box-shadow: 1px 1px 7px rgba(0,0,0,0.3);
         transform: translateY(calc(50% + 50px));
-        #content {
+        #email-submit-content {
             width: 100%;
             text-align: center;
             color:white;
